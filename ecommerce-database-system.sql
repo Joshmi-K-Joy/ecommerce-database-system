@@ -1,5 +1,4 @@
--- Full E-Commerce Project SQL
--- File: ecommerce_full_project.sql
+-- E-Commerce Project SQL
 -- Contains: schema, indexes, triggers, views, sample data, analytics queries, stored procedures
 -- Database: ecommerce_db
 
