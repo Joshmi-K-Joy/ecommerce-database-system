@@ -1,4 +1,4 @@
-# 📦 E-Commerce Database Project (MySQL 8.0)
+# 📦 E-Commerce Database Project
 
 This project is a fully designed **E-Commerce Database System** similar to Amazon/Flipkart, built using **MySQL 8.0**.
 It includes complete SQL schema, sample data, views, triggers, indexing, and analytical queries.
